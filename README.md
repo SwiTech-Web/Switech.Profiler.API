@@ -5,6 +5,7 @@
     <a href="https://github.com/SwiTech-Web/Switech.Profiler.API/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/SwiTech-Web/Switech.Profiler.API.svg?style=popout" /></a>
     <a href="https://github.com/SwiTech-Web/Switech.Profiler.API/pulse"><img src="https://img.shields.io/github/repo-size/SwiTech-Web/Switech.Profiler.API.svg?style=popout" /></a>
     <a href="https://github.com/SwiTech-Web/Switech.Profiler.API/commits/master"><img src="https://img.shields.io/github/last-commit/SwiTech-Web/Switech.Profiler.API.svg?style=popout" /></a>
+    <a href="https://github.com/SwiTech-Web/Switech.Profiler.API/graphs/contributors"><img src="https://img.shields.io/github/contributors/SwiTech-Web/Switech.Profiler.API.svg?style=popout" /></a>
 </p>
 <br />
 
