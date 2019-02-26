@@ -1,4 +1,4 @@
-package com.switech.profiler.configuration;
+package com.switech.profiler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
